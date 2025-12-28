@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base Colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Primary Theme Colors -->
+    <color name="primary_purple">#6A1B9A</color>
+    <color name="primary_purple_dark">#4A148C</color>
+    <color name="primary_purple_light">#9C4DCC</color>
+    
+    <!-- Secondary Theme Colors -->
+    <color name="secondary_gold">#F4C430</color>
+    <color name="secondary_rose_gold">#E6B980</color>
+    
+    <!-- Background Colors -->
+    <color name="background_white">#FFFFFF</color>
+    <color name="background_cream">#FAF9F6</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_hint">#BDBDBD</color>
+    
+    <!-- Error Color -->
+    <color name="error_red">#D32F2F</color>
+    
+    <!-- Additional UI Colors -->
+    <color name="divider_color">#E0E0E0</color>
+    <color name="card_background">#FFFFFF</color>
+</resources>

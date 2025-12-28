@@ -1,0 +1,26 @@
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (sdk.dir, ndk.dir, etc.)
+local.properties
+
+# Android Studio generated files
+.idea/
+*.iml
+*.ids
+.DS_Store
+
+# Native C++
+.cxx/
+
+# Built application files
+*.apk
+*.ap_
+
+# Signing configs
+*.jks
+*.keystore
+
+# Google Services (keep this out of public repos for security)
+google-services.json
